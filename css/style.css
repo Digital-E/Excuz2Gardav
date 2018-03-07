@@ -1,0 +1,32 @@
+html {
+  background-image: url("../images/background.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#logo {
+  display: block;
+  margin:auto;
+  width: 70%;
+
+
+}
+
+.generate-button {
+  display: block;
+  margin: auto;
+  margin-top: 30%
+}
+
+.result-field {
+  text-align: center;
+  margin-top: 30%;
+  font-size: 4em;
+  background-color: white
+
+}
